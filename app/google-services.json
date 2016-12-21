@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1052376867872",
+    "firebase_url": "https://thwart-4bb5d.firebaseio.com",
+    "project_id": "thwart-4bb5d",
+    "storage_bucket": "thwart-4bb5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052376867872:android:75ae91a137626a66",
+        "android_client_info": {
+          "package_name": "ret.twart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052376867872-8hbe1idtp4ndv87n9ca9h015mmdgk24b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ret.twart",
+            "certificate_hash": "D4CFDBBB20D1915B2A173E0364A41173C617FB0F"
+          }
+        },
+        {
+          "client_id": "1052376867872-hji55ltn7dquuq4f2fhb1ejqu4s512lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqxgYZ-PrK6MlnOzK_QJM6SDMqtpSSQKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052376867872-hji55ltn7dquuq4f2fhb1ejqu4s512lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
